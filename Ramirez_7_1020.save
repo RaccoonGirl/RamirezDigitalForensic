@@ -1,0 +1,14 @@
+1.) A disk image is a system that stores files sauch as docs, png, and img.
+2.) dd if=/dev/zero bs=1M count=36 >> diskimage.img
+3.) A disk partition is the creation of one or more regions on a secondary storage.
+4.) I guess it is infinate.
+5.) It can possibly get longer to load or search.
+6.) You probably have to creat a disk image and create informations, then create a partition and connected to the disk image.
+7.) There is an unzip version of it.
+8.) It is 512 bytes
+9.) The sector size is 512 by 512 bytes
+10.) The boot start 2013-02-09-wheezy-raspbian.img1 is 8192 and the 2013-02-09-wheezy-raspbian.img2  is 
+122880.
+11.) 1 byte
+12.) 4194304
+13.) 62914560
